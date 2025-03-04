@@ -20,9 +20,9 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - [ServerUtilsR](https://github.com/404Setup/ServerUtils)
 - [GoldPiglin](https://github.com/404Setup/GoldPiglin)
 - [OxygenCylinder](https://github.com/404Setup/OxygenCylinder)
+- [DEH](https://github.com/404Setup/deh)
 - [UltraSpeedLimit](https://github.com/LevelTranic/UltraSpeedLimit)
 - [LetsExpand](https://modrinth.com/plugin/lets-expand)
-- [Placeholder-JavascriptZ(Fork)](https://github.com/404Setup/Placeholder-JavascriptZ)
 
 ### Minecraft Mod
 - [BreedHorseX](https://modrinth.com/plugin/breedhorse)

@@ -24,6 +24,9 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - [UltraSpeedLimit](https://github.com/LevelTranic/UltraSpeedLimit)
 - [LetsExpand](https://modrinth.com/plugin/lets-expand)
 
+### Minecraft Other
+- [PlaceholderAPI-JavascriptZ](https://github.com/404Setup/PlaceholderAPI-JavascriptZ)
+
 ### Minecraft Mod
 - [BreedHorseX](https://modrinth.com/plugin/breedhorse)
 - [YggdrasilProxy](https://modrinth.com/mod/yggdrasil-proxy)

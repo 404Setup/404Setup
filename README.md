@@ -11,8 +11,8 @@ Golang, Java, and a little bit of Rust, that's all I have.
 
 ### Minecraft Server
  - [VelocityNT](https://github.com/404Setup/VelocityNT)
- - [SewliaMC](https://github.com/404Setup/Sewlia)
- - [VineMC](https://github.com/404Setup/Vine)
+ - [Sewlia](https://github.com/404Setup/Sewlia)
+ - [Vine](https://github.com/404Setup/Vine)
  - [LevelBukkit](https://github.com/404Setup/LevelBukkit)
 
 ### Minecraft Plugin

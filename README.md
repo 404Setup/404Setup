@@ -9,12 +9,6 @@ Golang, Java, and a little bit of Rust, that's all I have.
 **=========================**
 ## My Project
 
-### Minecraft Server
- - [VelocityNT](https://github.com/404Setup/VelocityNT)
- - [Sewlia](https://github.com/404Setup/Sewlia)
- - [Vine](https://github.com/404Setup/Vine)
- - [LevelBukkit](https://github.com/404Setup/LevelBukkit)
-
 ### Minecraft Plugin
 - [BreedHorse](https://github.com/404Setup/BreedHorse)
 - [ServerUtilsR](https://github.com/404Setup/ServerUtils)
@@ -24,12 +18,16 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - [UltraSpeedLimit](https://github.com/LevelTranic/UltraSpeedLimit)
 - [LetsExpand](https://modrinth.com/plugin/lets-expand)
 
-### Minecraft Other
-- [PlaceholderAPI-JavascriptZ](https://github.com/404Setup/PlaceholderAPI-JavascriptZ)
-
 ### Minecraft Mod
 - [BreedHorseX](https://modrinth.com/plugin/breedhorse)
 - [YggdrasilProxy](https://modrinth.com/mod/yggdrasil-proxy)
+
+### Minecraft Other
+- [PlaceholderAPI-JavascriptZ](https://github.com/404Setup/PlaceholderAPI-JavascriptZ)
+  
+- ### Minecraft Server
+ - [Sewlia](https://github.com/404Setup/Sewlia)
+ - [Vine](https://github.com/404Setup/Vine)
 
 ### Library
 - [IRScheduler](https://github.com/404Setup/irs)

@@ -25,9 +25,9 @@ Golang, Java, and a little bit of Rust, that's all I have.
 ### Minecraft Other
 - [PlaceholderAPI-JavascriptZ](https://github.com/404Setup/PlaceholderAPI-JavascriptZ)
   
-- ### Minecraft Server
- - [Sewlia](https://github.com/404Setup/Sewlia)
- - [Vine](https://github.com/404Setup/Vine)
+### Minecraft Server
+- [Sewlia](https://github.com/404Setup/Sewlia)
+- [Vine](https://github.com/404Setup/Vine)
 
 ### Library
 - [IRScheduler](https://github.com/404Setup/irs)

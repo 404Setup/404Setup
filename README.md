@@ -22,9 +22,6 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - [BreedHorseX](https://modrinth.com/plugin/breedhorse)
 - [YggdrasilProxy](https://modrinth.com/mod/yggdrasil-proxy)
 - [ProfileCached](https://modrinth.com/mod/profile-cached)
-
-### Minecraft Other
-- [PlaceholderAPI-JavascriptZ](https://github.com/404Setup/PlaceholderAPI-JavascriptZ)
   
 ### Minecraft Server
 - [Sewlia](https://github.com/404Setup/Sewlia)

@@ -10,22 +10,21 @@ Golang, Java, and a little bit of Rust, that's all I have.
 ## My Project
 
 ### Minecraft Plugin
-- [BreedHorse](https://github.com/404Setup/BreedHorse)
-- [ServerUtilsR](https://github.com/404Setup/ServerUtils)
-- [GoldPiglin](https://github.com/404Setup/GoldPiglin)
-- [OxygenCylinder](https://github.com/404Setup/OxygenCylinder)
-- [DEH](https://github.com/404Setup/deh)
+- BreedHorse · [Github](https://github.com/404Setup/BreedHorse) | [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/breedhorse) | [Spigot](https://www.spigotmc.org/resources/breedhorse.118704/)
+- GoldPiglin · [Github](https://github.com/404Setup/GoldPiglin) | [Modrinth](https://modrinth.com/plugin/goldpiglin) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/goldpiglin) | [Spigot](https://www.spigotmc.org/resources/goldpiglin.120819/)
+- OxygenCylinder · [Github](https://github.com/404Setup/OxygenCylinder)
+- DEH · [Github](https://github.com/404Setup/deh)
 - [UltraSpeedLimit](https://github.com/LevelTranic/UltraSpeedLimit)
 - [LetsExpand](https://modrinth.com/plugin/lets-expand)
 
 ### Minecraft Mod
-- BreedHorseX | [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse-x)
-- YggdrasilProxy | [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasilproxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
-- ProfileCached | [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached)
+- BreedHorseX · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse-x)
+- YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasilproxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
+- ProfileCached · [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached)
   
 ### Minecraft Server
-- [Sewlia](https://github.com/404Setup/Sewlia)
-- [Vine](https://github.com/404Setup/Vine)
+- Sewlia · [Github](https://github.com/404Setup/Sewlia)
+- Vine · [Github](https://github.com/404Setup/Vine)
 
 ### Library
 - [IRScheduler](https://github.com/404Setup/irs)
@@ -36,4 +35,4 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - [TFramework(WIP)](https://github.com/404Setup/t-base)
 
 ### Software
-- [Mars API](https://github.com/404Setup/Mars)
+- Mars API · [Github](https://github.com/404Setup/Mars)

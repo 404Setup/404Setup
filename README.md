@@ -19,9 +19,9 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - [LetsExpand](https://modrinth.com/plugin/lets-expand)
 
 ### Minecraft Mod
-- [BreedHorseX](https://modrinth.com/plugin/breedhorse)
-- [YggdrasilProxy](https://modrinth.com/mod/yggdrasil-proxy) | [Repo (Private)](https://github.com/404Setup/YggdrasilProxy)
-- [ProfileCached](https://modrinth.com/mod/profile-cached)
+- BreedHorseX | [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse-x)
+- YggdrasilProxy | [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasilproxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
+- ProfileCached | [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached)
   
 ### Minecraft Server
 - [Sewlia](https://github.com/404Setup/Sewlia)

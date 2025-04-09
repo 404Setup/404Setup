@@ -10,7 +10,7 @@ Golang, Java, and a little bit of Rust, that's all I have.
 ## My Project
 
 ### Minecraft Plugin
-- BreedHorse · [Github](https://github.com/404Setup/BreedHorse) | [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/breedhorse) | [Spigot](https://www.spigotmc.org/resources/breedhorse.118704/) | [bStats](https://bstats.org/plugin/bukkit/BreedHorse/24077)
+- BreedHorse · [Github](https://github.com/404Setup/BreedHorse) | [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/breedhorse) | [Spigot](https://www.spigotmc.org/resources/breedhorse.118704/) | [Hangar](https://hangar.papermc.io/Fare/BreedHorse) | [bStats](https://bstats.org/plugin/bukkit/BreedHorse/24077)
 - GoldPiglin · [Github](https://github.com/404Setup/GoldPiglin) | [Modrinth](https://modrinth.com/plugin/goldpiglin) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/goldpiglin) | [Spigot](https://www.spigotmc.org/resources/goldpiglin.120819/) | [bStats](https://bstats.org/plugin/bukkit/GoldPiglin/23906)
 - OxygenCylinder · [Github](https://github.com/404Setup/OxygenCylinder) | [bStats](https://bstats.org/plugin/bukkit/OxygenCylinder/24165)
 - DEH · [Github](https://github.com/404Setup/deh) | [bStats](https://bstats.org/plugin/bukkit/deh/24983)

@@ -8,9 +8,9 @@ Golang, Java, and a little bit of Rust, that's all I have.
 
 **=========================**
 
-Since I may not receive reminders, Github Issues has been disabled. You can join my Discord server to continue reporting issues.
+**Since I may not receive reminders, Github Issues has been disabled. You can join my Discord server to continue reporting issues.**
 
-Discord: https://discord.gg/dBbSbv2Vuz
+**Discord**: https://discord.gg/dBbSbv2Vuz
 
 **=========================**
 ## My Project

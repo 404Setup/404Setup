@@ -7,6 +7,12 @@ This is not my main job, I am busy with other things in reality, so there will n
 Golang, Java, and a little bit of Rust, that's all I have.
 
 **=========================**
+
+Since I may not receive reminders, Github Issues has been disabled. You can join my Discord server to continue reporting issues.
+
+Discord: https://discord.gg/dBbSbv2Vuz
+
+**=========================**
 ## My Project
 
 ### Minecraft Plugin
@@ -18,8 +24,8 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - LetsExpand · [](https://modrinth.com/plugin/lets-expand) | [bStats](https://bstats.org/plugin/bukkit/LetsExpand/25230)
 
 ### Minecraft Mod
-- BreedHorseX · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse-x) | [Github Issues](https://github.com/404Setup/BreedHorse/issues) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
-- YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasilproxy) | [Github Issues](https://github.com/404Setup/YggdrasilProxy-issues) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
+- BreedHorseX · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse-x) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
+- YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasilproxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
 - ProfileCached · [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
   
 ### Minecraft Server

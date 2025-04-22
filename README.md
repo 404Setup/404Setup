@@ -33,11 +33,12 @@ Golang, Java, and a little bit of Rust, that's all I have.
 
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)
+- TI18n (WIP) · [Github](https://github.com/404Setup/t-i18n)
 - T2hread · [Github](https://github.com/404Setup/t-thread)
 - TNetwork · [Github](https://github.com/404Setup/t-network)
 - TProxy · [Github](https://github.com/404Setup/t-proxy)
 - TUtils · [Github](https://github.com/404Setup/t-utils)
-- TFramework(WIP) · [Github](https://github.com/404Setup/t-base)
+- TFramework (WIP) · [Github](https://github.com/404Setup/t-base)
 
 ### Software
 - Mars API · [Github](https://github.com/404Setup/Mars)

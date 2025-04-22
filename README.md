@@ -30,7 +30,6 @@ Golang, Java, and a little bit of Rust, that's all I have.
   
 ### Minecraft Server
 - Sewlia · [Github](https://github.com/404Setup/Sewlia) | [bStats](https://bstats.org/plugin/server-implementation/Sewlia/24932)
-- Vine · [Github](https://github.com/404Setup/Vine) | [bStats](https://bstats.org/plugin/server-implementation/Vine/24933)
 
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)

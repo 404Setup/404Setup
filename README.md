@@ -20,8 +20,8 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - GoldPiglin · [Github](https://github.com/404Setup/GoldPiglin) | [Modrinth](https://modrinth.com/plugin/goldpiglin) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/goldpiglin) | [Spigot](https://www.spigotmc.org/resources/goldpiglin.120819/) | [bStats](https://bstats.org/plugin/bukkit/GoldPiglin/23906)
 - OxygenCylinder · [Github](https://github.com/404Setup/OxygenCylinder) | [bStats](https://bstats.org/plugin/bukkit/OxygenCylinder/24165)
 - DEH · [Github](https://github.com/404Setup/deh) | [bStats](https://bstats.org/plugin/bukkit/deh/24983)
-- UltraSpeedLimit · [](https://github.com/LevelTranic/UltraSpeedLimit) | [bStats](https://bstats.org/plugin/velocity/UltraSpeedLimit/23413)
-- LetsExpand · [](https://modrinth.com/plugin/lets-expand) | [bStats](https://bstats.org/plugin/bukkit/LetsExpand/25230)
+- UltraSpeedLimit · [Modrinth](https://github.com/LevelTranic/UltraSpeedLimit) | [bStats](https://bstats.org/plugin/velocity/UltraSpeedLimit/23413)
+- LetsExpand · [Modrinth](https://modrinth.com/plugin/lets-expand) | [bStats](https://bstats.org/plugin/bukkit/LetsExpand/25230)
 - TLIB Bundler (WIP) · [Github](https://github.com/404Setup/TLIB-Bundler)
 
 ### Minecraft Mod
@@ -29,9 +29,6 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasilproxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
 - ProfileCached · [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
 - TLIB Bundler (WIP) · [Github](https://github.com/404Setup/TLIB-Bundler)
-  
-### Minecraft Server
-- Sewlia · [Github](https://github.com/404Setup/Sewlia) | [bStats](https://bstats.org/plugin/server-implementation/Sewlia/24932)
 
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)

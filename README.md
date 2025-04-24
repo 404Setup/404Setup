@@ -32,7 +32,7 @@ Golang, Java, and a little bit of Rust, that's all I have.
 
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)
-- TI18n (WIP) · [Github](https://github.com/404Setup/t-i18n)
+- TI18n · [Github](https://github.com/404Setup/t-i18n)
 - T2hread · [Github](https://github.com/404Setup/t-thread)
 - TNetwork · [Github](https://github.com/404Setup/t-network)
 - TProxy · [Github](https://github.com/404Setup/t-proxy)

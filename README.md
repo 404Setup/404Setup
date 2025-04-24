@@ -27,7 +27,7 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - BreedHorseX · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse-x) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
 - YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasil-proxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
 - ProfileCached · [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
-- TLIB Bundler (WIP) · [Github](https://github.com/404Setup/TLIB-Bundler)
+- libnwayo (WIP) · [Github](https://github.com/404Setup/libnwayo)
 
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)

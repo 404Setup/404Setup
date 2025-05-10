@@ -25,7 +25,7 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - LetsExpand · [Modrinth](https://modrinth.com/plugin/lets-expand) | [bStats](https://bstats.org/plugin/bukkit/LetsExpand/25230)
 
 ### Minecraft Mod
-- BreedHorseX · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse-x) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
+- BreedHorse · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
 - YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasil-proxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
 - ProfileCached · [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
 - Don't freeze · [Modrinth](https://modrinth.com/mod/dont-freeze) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)

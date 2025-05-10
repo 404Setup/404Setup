@@ -18,6 +18,7 @@ Golang, Java, and a little bit of Rust, that's all I have.
 ### Minecraft Plugin
 - BreedHorse · [Github](https://github.com/404Setup/BreedHorse) | [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/breedhorse) | [Spigot](https://www.spigotmc.org/resources/breedhorse.118704/) | [Hangar](https://hangar.papermc.io/Goal/BreedHorse) | [bStats](https://bstats.org/plugin/bukkit/BreedHorse/24077)
 - GoldPiglin · [Github](https://github.com/404Setup/GoldPiglin) | [Modrinth](https://modrinth.com/plugin/goldpiglin) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/goldpiglin) | [Spigot](https://www.spigotmc.org/resources/goldpiglin.120819/) | [bStats](https://bstats.org/plugin/bukkit/GoldPiglin/23906)
+- Don't freeze · [Modrinth](https://modrinth.com/mod/dont-freeze) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
 - OxygenCylinder · [Github](https://github.com/404Setup/OxygenCylinder) | [bStats](https://bstats.org/plugin/bukkit/OxygenCylinder/24165)
 - DEH · [Github](https://github.com/404Setup/deh) | [bStats](https://bstats.org/plugin/bukkit/deh/24983)
 - UltraSpeedLimit · [Modrinth](https://github.com/LevelTranic/UltraSpeedLimit) | [bStats](https://bstats.org/plugin/velocity/UltraSpeedLimit/23413)
@@ -27,6 +28,7 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - BreedHorseX · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse-x) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
 - YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasil-proxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
 - ProfileCached · [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
+- Don't freeze · [Modrinth](https://modrinth.com/mod/dont-freeze) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
 - libnwayo (WIP) · [Github](https://github.com/404Setup/libnwayo)
 
 ### Library

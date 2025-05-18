@@ -31,6 +31,10 @@ Golang, Java, and a little bit of Rust, that's all I have.
 - Don't freeze · [Modrinth](https://modrinth.com/mod/dont-freeze) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
 - libnwayo (WIP) · [Github](https://github.com/404Setup/libnwayo)
 
+### Minecraft Mod (Fork)
+- FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi)
+- FastMathMod Multiloader · [Github](https://github.com/404Setup/FastMathMod-Multi)
+
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)
 - TI18n · [Github](https://github.com/404Setup/t-i18n) | [Central](https://central.sonatype.com/artifact/one.tranic/t-i18n)

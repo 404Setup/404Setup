@@ -33,7 +33,7 @@ Golang, Java, and a little bit of Rust, that's all I have.
 
 ### Minecraft Mod (Fork)
 - FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi)
-- FastMathMod Multiloader · [Github](https://github.com/404Setup/FastMathMod-Multi)
+- FastMathMod MultiLoader · [Github](https://github.com/404Setup/FastMathMod-Multi)
 
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)

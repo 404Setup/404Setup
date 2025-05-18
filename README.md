@@ -11,10 +11,22 @@ This is not my main job, I am busy with other things in reality, so there will n
 Golang, Java, and a little bit of Rust, that's all I have.
 
 **=========================**
+## About Issues and Support
 
-**Since I may not receive reminders, Github Issues has been disabled. You can join my Discord server to continue reporting issues.**
+I turned off the automatic watch, so I can't receive notifications from Github when you create an issue or pull request for my repo. 
+
+So, I decided to disable the Issues feature for most repos. In repos without Issues feature, you should join my Discord server to report issues to me, and I will check those notifications every day.
 
 **Discord**: https://discord.gg/PxgFqNmR2h
+
+**About the compatibility of my works:**
+My minimum development version is 1.18.2, which is Java 17. Minecraft below this version will not receive any support, and I will not actively develop any works for it.
+
+No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoForge with Bukkit.
+
+My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge), please do not run it with mods that provide cross-loader compatibility such as Connecter. 
+
+(Example: you use NeoForge and Connecter, but you mistakenly installed the Fabric version of YggdrasilProxy/ProfileCached, you should use the NeoForge version of YggdrasilProxy/ProfileCached)
 
 **=========================**
 ## My Project

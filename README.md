@@ -1,5 +1,9 @@
 **Not linked**
 
+---
+
+**I only have about four months of free time left, after which I will most likely not be active on the internet anymore.**
+
 I have only been studying Java for a year and have never read professional tutorials and conducted systematic learning, and I lack imagination and perseverance.
 
 This is not my main job, I am busy with other things in reality, so there will not be any paid projects released, and I don't want it to delay me too much.
@@ -34,6 +38,13 @@ Golang, Java, and a little bit of Rust, that's all I have.
 ### Minecraft Mod (Fork)
 - FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi)
 - FastMathMod MultiLoader · [Github](https://github.com/404Setup/FastMathMod-Multi)
+
+### Minecraft Mod (Fork | TODO)
+= In planning, not yet started or completed =
+
+- VMP MultiLoader
+- FastRandom MultiLoader
+- Krypton MultiLoader
 
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)

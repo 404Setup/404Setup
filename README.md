@@ -50,12 +50,12 @@ My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge
 ### Minecraft Mod (Fork)
 - FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi)
 - FastMathMod MultiLoader · [Github](https://github.com/404Setup/FastMathMod-Multi)
+- Krypton MultiLoader  · [Github](https://github.com/404Setup/krypton-Multi)
 
 ### Minecraft Mod (Fork | TODO)
 = In planning, not yet started or completed =
 
 - VMP MultiLoader
-- Krypton MultiLoader
 
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)

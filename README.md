@@ -8,7 +8,8 @@ This is not my main job, I am busy with other things in reality, so there will n
 
 Golang, Java, and a little bit of Rust, that's all I have.
 
-**=========================**
+---
+
 ## About Issues and Support
 
 I turned off the automatic watch, so I can't receive notifications from Github when you create an issue or pull request for my repo. 
@@ -26,7 +27,8 @@ My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge
 
 (Example: you use NeoForge and Connecter, but you mistakenly installed the Fabric version of YggdrasilProxy/ProfileCached, you should use the NeoForge version of YggdrasilProxy/ProfileCached)
 
-**=========================**
+---
+
 ## My Project
 
 ### Minecraft Plugin
@@ -53,7 +55,6 @@ My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge
 = In planning, not yet started or completed =
 
 - VMP MultiLoader
-- FastRandom MultiLoader
 - Krypton MultiLoader
 
 ### Library

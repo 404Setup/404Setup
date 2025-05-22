@@ -50,6 +50,7 @@ My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge
 ### Minecraft Mod (Fork)
 - FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi)
 - FastMathMod MultiLoader · [Github](https://github.com/404Setup/FastMathMod-Multi)
+- FasterRandom FNP (No Forge) · [Github](https://github.com/404Setup/FastRandom-Multi)
 - Krypton MultiLoader  · [Github](https://github.com/404Setup/krypton-Multi)
 
 ### Minecraft Mod (Fork | TODO)

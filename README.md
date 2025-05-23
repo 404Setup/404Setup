@@ -41,22 +41,39 @@ My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge
 - LetsExpand · [Modrinth](https://modrinth.com/plugin/lets-expand) | [bStats](https://bstats.org/plugin/bukkit/LetsExpand/25230)
 
 ### Minecraft Mod
+#### My Self
 - BreedHorse · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
 - YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasil-proxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
 - ProfileCached · [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
 - Don't freeze · [Modrinth](https://modrinth.com/mod/dont-freeze) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
 - libnwayo (WIP) · [Github](https://github.com/404Setup/libnwayo)
 
-### Minecraft Mod (Fork)
-- FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi)
-- FastMathMod MultiLoader · [Github](https://github.com/404Setup/FastMathMod-Multi)
-- FasterRandom FNP (No Forge) · [Github](https://github.com/404Setup/FastRandom-Multi)
-- Krypton MultiLoader  · [Github](https://github.com/404Setup/krypton-Multi)
+#### Fork Mod
+```
+* - Will be merged upstream
+** - Add only Forge or NeoForge implementations
+```
 
-### Minecraft Mod (Fork | TODO)
-= In planning, not yet started or completed =
+##### Released
+- FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi) | [Modrinth](https://modrinth.com/mod/fixmcstats-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fixmcstats-fnp)
+- FastMathMod MultiLoader · [Github](https://github.com/404Setup/FastMathMod-Multi) *
+- FasterRandom MultiLoader (No Forge) · [Github](https://github.com/404Setup/FastRandom-Multi) **
+- Krypton MultiLoader  · [Github](https://github.com/404Setup/krypton-Multi) | [Modrinth](https://modrinth.com/mod/krypton-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp)
 
-- VMP MultiLoader
+##### TODO
+> In planning, not yet started or completed.
+> 
+> Due to various legacy issues in the target environment (specifically Forge),
+> these plans may not be actually executed, or only partially executed.
+>
+> Forks that perform well will be uploaded to Modrinth and Curseforge,
+> and the implementation is incomplete (referring to the lack of Forge or
+> NeoForge compatibility) or the Forks that are to be merged upstream will
+> only provide Release in Github.
+
+- VMP MultiLoader  · [](https://github.com/404Setup/VMP-FNP)
+- AsyncLocator MultiLoader
+- A Morph Mod (Maybe the plan will be cancelled, the priority is not high) **
 
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)

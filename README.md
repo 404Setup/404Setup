@@ -41,26 +41,26 @@ My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge
 - LetsExpand · [Modrinth](https://modrinth.com/plugin/lets-expand) | [bStats](https://bstats.org/plugin/bukkit/LetsExpand/25230)
 
 ### Minecraft Mod
-#### My Self
+#### Mod created by me
 - BreedHorse · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
 - YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasil-proxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
 - ProfileCached · [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
 - Don't freeze · [Modrinth](https://modrinth.com/mod/dont-freeze) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
 - libnwayo (WIP) · [Github](https://github.com/404Setup/libnwayo)
 
-#### Fork Mod
+#### Mod fork maintained by me
 ```
 * - Will be merged upstream
 ** - Add only Forge or NeoForge implementations
 ```
 
-##### Released
+**@Published**
 - FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi) | [Modrinth](https://modrinth.com/mod/fixmcstats-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fixmcstats-fnp)
 - FastMathMod MultiLoader · [Github](https://github.com/404Setup/FastMathMod-Multi) *
 - FasterRandom MultiLoader (No Forge) · [Github](https://github.com/404Setup/FastRandom-Multi) **
 - Krypton MultiLoader  · [Github](https://github.com/404Setup/krypton-Multi) | [Modrinth](https://modrinth.com/mod/krypton-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp)
 
-##### TODO
+**@TODO**
 > In planning, not yet started or completed.
 > 
 > Due to various legacy issues in the target environment (specifically Forge),

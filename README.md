@@ -71,7 +71,6 @@ My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge
 > NeoForge compatibility) or the Forks that are to be merged upstream will
 > only provide Release in Github.
 
-- AsyncLocator MultiLoader
 - A Morph Mod (Maybe the plan will be cancelled, the priority is not high) **
 
 ### Library

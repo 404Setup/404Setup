@@ -23,10 +23,6 @@ My minimum development version is 1.18.2, which is Java 17. Minecraft below this
 
 No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoForge with Bukkit.
 
-My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge), please do not run it with mods that provide cross-loader compatibility such as Connecter. 
-
-(Example: you use NeoForge and Connecter, but you mistakenly installed the Fabric version of YggdrasilProxy/ProfileCached, you should use the NeoForge version of YggdrasilProxy/ProfileCached)
-
 ---
 
 ## My Project

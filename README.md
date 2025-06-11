@@ -56,7 +56,6 @@ My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge
 
 **@Published**
 - FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi) | [Modrinth](https://modrinth.com/mod/fixmcstats-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fixmcstats-fnp)
-- FastMathMod MultiLoader · [Github](https://github.com/404Setup/FastMathMod-Multi) *
 - FasterRandom MultiLoader (No Forge) · [Github](https://github.com/404Setup/FastRandom-Multi) **
 - Krypton MultiLoader  · [Github](https://github.com/404Setup/krypton-Multi) | [Modrinth](https://modrinth.com/mod/krypton-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp)
 
@@ -71,7 +70,7 @@ My mod is natively compatible with multiple loaders (Fabric/Forge/Quilt/NeoForge
 > NeoForge compatibility) or the Forks that are to be merged upstream will
 > only provide Release in Github.
 
-- EMPTY
+- **EMPTY**
 
 ### Library
 - IRScheduler · [Github](https://github.com/404Setup/irs)

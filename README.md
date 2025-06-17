@@ -19,7 +19,7 @@ So, I decided to disable the Issues feature for most repos. In repos without Iss
 **Discord**: https://discord.gg/PxgFqNmR2h
 
 **About the compatibility of my works:**
-My minimum development version is 1.18.2, which is Java 17. Minecraft below this version will not receive any support, and I will not actively develop any works for it.
+My minimum development version is 1.20.1, which is Java 17. Minecraft below this version will not receive any support, and I will not actively develop any works for it.
 
 No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoForge with Bukkit.
 
@@ -35,6 +35,10 @@ No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoF
 - DEH · [Github](https://github.com/404Setup/deh) | [bStats](https://bstats.org/plugin/bukkit/deh/24983)
 - UltraSpeedLimit · [Modrinth](https://github.com/LevelTranic/UltraSpeedLimit) | [bStats](https://bstats.org/plugin/velocity/UltraSpeedLimit/23413)
 - LetsExpand · [Modrinth](https://modrinth.com/plugin/lets-expand) | [bStats](https://bstats.org/plugin/bukkit/LetsExpand/25230)
+
+### Minecraft Server
+- [VelocityNT (Dead)](https://github.com/404Setup/VelocityNT)
+- [VelocityNT Recast](https://github.com/404Setup/VelocityNT-Recast)
 
 ### Minecraft Mod
 #### Mod created by me

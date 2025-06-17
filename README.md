@@ -57,7 +57,7 @@ No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoF
 **@Published**
 - FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi) | [Modrinth](https://modrinth.com/mod/fixmcstats-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fixmcstats-fnp)
 - FasterRandom MultiLoader (No Forge) · [Github](https://github.com/404Setup/FastRandom-Multi) **
-- Krypton MultiLoader  · [Github](https://github.com/404Setup/krypton-Multi) | [Modrinth](https://modrinth.com/mod/krypton-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp)
+- Krypton FNP  · [Github](https://github.com/404Setup/KryptonFNP) | [Modrinth](https://modrinth.com/mod/krypton-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp)
 
 **@TODO**
 > In planning, not yet started or completed.

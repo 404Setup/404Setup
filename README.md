@@ -25,6 +25,17 @@ No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoF
 
 ---
 
+
+## Mods lifecycle adjustment
+
+- **KryptonFNP**: Versions lower than 1.21.1 will no longer be synchronized with subsequent updates (there will be no 0.2.17)
+- **FixMCStats FNP**: Versions below 1.21.5 will no longer be synchronized with subsequent updates (regardless of whether they have been released); Each update cycle is at least 45 days.
+- **ProfileCached**:  Fabric: Versions lower than 1.20.2 will no longer be synchronized with subsequent updates; Forge: Except for 1.20.1, versions lower than 1.20.6 will no longer be synchronized with subsequent updates; NeoForge: Maintaining the status quo
+- **BreedHorse**: Only the latest version is supported
+- **FasterRandom NeoForge**: Stop maintenance
+- **YggdrasilProxy**: Maintaining the status quo
+- **Don't freeze**: Only the latest version is supported
+
 ## My Project
 
 ### Minecraft Plugin

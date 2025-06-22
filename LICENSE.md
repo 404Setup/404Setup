@@ -95,7 +95,7 @@ Permitted Modpacks must comply with:
 
 ## 🎁 Special permission
 - If you need to create Fork with this license removed, please contact the author.
-- For anti-virus needs, limited decompilation of author's works can be performed without creating competitors or spreading source code or approximate source code.
+- For anti-virus needs, limited decompilation of the author's works can be performed without creating competitors, or **scattering and using** 'source code' or 'approximate source code'.
 
 ---
 

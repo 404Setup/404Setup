@@ -1,5 +1,5 @@
 # 📜 404Setup Works Redistribution License  
-**Copyright © 404Setup (a.k.a. K.I.L.E / opencl / 4x / 04find / Goal / Reiyol)**  
+**Copyright © 404Setup (a.k.a. K.L.I.E / opencl / 4x / 04find / Goal / Reiyol)**  
 **Last Updated: June 22, 2025**
 
 ## Introduction  
@@ -17,7 +17,7 @@ This license does not replace the base license but adds restrictive provisions *
 ## 🧩 Account Identity  
 "404Setup" is the handle used on these platforms (subject to change):
 
-- GitHub: `404Setup` (Name: K.I.L.E)  
+- GitHub: `404Setup` (Name: K.L.I.E)  
 - Discord: `opencl` (Name: 444404)  
 - Modrinth: `4x`  
 - CurseForge: `04find`  

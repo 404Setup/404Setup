@@ -93,6 +93,12 @@ Permitted Modpacks must comply with:
 
 ---
 
+## 🎁 Special permission
+- If you need to create Fork with this license removed, please contact the author.
+- For anti-virus needs, limited decompilation of author's works can be performed without creating competitors or spreading source code or approximate source code.
+
+---
+
 ## 🚫 Final Terms  
 - If you cannot or will not comply with the Modpack terms, **remove all 404Setup’s work from your distribution.**  
 - 404Setup reserves the right to enforce these terms via DMCA or platform-specific reports.  

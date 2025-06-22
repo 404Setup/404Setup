@@ -98,3 +98,8 @@ No ports will be provided for versions lower than 1.20.1.
 
 ### Software
 - Mars API · [Github](https://github.com/404Setup/Mars)
+
+## License
+
+My works has a restrictive license in addition to the original license to prevent some unexpected behavior, 
+see [404Setup Works Redistribution License](https://github.com/404Setup/404Setup/blob/main/LICENSE.md)

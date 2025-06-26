@@ -58,6 +58,7 @@ No ports will be provided for versions lower than 1.20.1.
 ### Minecraft Mod
 #### Mod created by me
 - BreedHorse · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
+- KryptonFNP Patcher · [Modrinth](https://modrinth.com/mod/kryptonfnp-patcher) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kryptonfnp-patcher) | [Github](https://github.com/404Setup/FNP-Patcher)
 - YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasil-proxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
 - ProfileCached · [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
 - Don't freeze · [Modrinth](https://modrinth.com/mod/dont-freeze) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)

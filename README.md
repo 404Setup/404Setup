@@ -16,7 +16,7 @@ I turned off the automatic watch, so I can't receive notifications from Github w
 
 So, I decided to disable the Issues feature for most repos. In repos without Issues feature, you should join my Discord server to report issues to me, and I will check those notifications every day.
 
-**Discord**: https://discord.gg/PxgFqNmR2h
+<a href="https://discord.gg/PxgFqNmR2h"><img alt="discord-plural" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></img></a>
 
 **About the compatibility of my works:**
 My minimum development version is 1.20.1, which is Java 17. Minecraft below this version will not receive any support, and I will not actively develop any works for it.
@@ -24,21 +24,6 @@ My minimum development version is 1.20.1, which is Java 17. Minecraft below this
 No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoForge with Bukkit.
 
 ---
-
-
-## Mods lifecycle adjustment
-Due to some issues in life, my time is getting less and less, and now I can only make adjustments to the life cycle of all mods.
-
-- **KryptonFNP**: Versions lower than 1.21.1 will no longer be synchronized with subsequent updates (there will be no 0.2.17)
-- **FixMCStats FNP**: Versions below 1.21.6 will no longer be synchronized with subsequent updates (regardless of whether they have been released); Each update cycle is at least 60 days.
-- **ProfileCached**:  Fabric: Versions lower than 1.20.2 will no longer be synchronized with subsequent updates; Forge: Except for 1.20.1, versions lower than 1.20.6 will no longer be synchronized with subsequent updates; NeoForge: Maintaining the status quo
-- **BreedHorse**: Only the latest version is supported
-- **FasterRandom NeoForge**: Stop maintenance
-- **YggdrasilProxy**: Maintaining the status quo
-- **Don't freeze**: Only the latest version is supported
-
-### Mod Ports
-No ports will be provided for versions lower than 1.20.1.
 
 ## My Project
 
@@ -57,47 +42,27 @@ No ports will be provided for versions lower than 1.20.1.
 
 ### Minecraft Mod
 #### Mod created by me
-- BreedHorse · [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
-- KryptonFNP Patcher · [Modrinth](https://modrinth.com/mod/kryptonfnp-patcher) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kryptonfnp-patcher) | [Github](https://github.com/404Setup/FNP-Patcher)
-- YggdrasilProxy · [Modrinth](https://modrinth.com/mod/yggdrasil-proxy) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yggdrasil-proxy) | [Github (Private)](https://github.com/404Setup/YggdrasilProxy)
-- ProfileCached · [Modrinth](https://modrinth.com/mod/profile-cached) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
-- Don't freeze · [Modrinth](https://modrinth.com/mod/dont-freeze) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
+- BreedHorse · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
+- Don't freeze · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
+- KryptonFNP Patcher · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kryptonfnp-patcher) | [Github](https://github.com/404Setup/FNP-Patcher)
+- ProfileCached · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
+- VanillaRPKeeper · <a href="https://www.curseforge.com/minecraft/mc-mods/vanilla-rp-keeper"><img alt="curseforge" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg"/></a> | <a href="https://github.com/404Setup/VanillaRPKeeper"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a>
+- YggdrasilProxy · <a href="https://www.curseforge.com/minecraft/mc-mods/yggdrasil-proxy"><img alt="curseforge" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg"/></a> | <a href="https://github.com/404Setup/YggdrasilProxy"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"></img></a>
 
 #### Mod fork maintained by me
-```
-* - Will be merged upstream
-** - Add only Forge or NeoForge implementations
-```
-
-**@Published**
-- FixMCStats MultiLoader · [Github](https://github.com/404Setup/FixMCStats-Multi) | [Modrinth](https://modrinth.com/mod/fixmcstats-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/fixmcstats-fnp)
-- FasterRandom MultiLoader (No Forge) · [Github](https://github.com/404Setup/FastRandom-Multi) **
-- Krypton FNP  · [Github](https://github.com/404Setup/KryptonFNP) | [Modrinth](https://modrinth.com/mod/krypton-fnp) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp)
-
-**@TODO**
-> In planning, not yet started or completed.
-> 
-> Due to various legacy issues in the target environment (specifically Forge),
-> these plans may not be actually executed, or only partially executed.
->
-> Forks that perform well will be uploaded to Modrinth and Curseforge,
-> and the implementation is incomplete (referring to the lack of Forge or
-> NeoForge compatibility) or the Forks that are to be merged upstream will
-> only provide Release in Github.
-
-- **EMPTY**
+- Krypton FNP  · <a href="https://www.curseforge.com/minecraft/mc-mods/krypton-fnp"><img alt="curseforge" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg"/></a> | <a href="https://github.com/404Setup/KryptonFNP"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a>
 
 ### Library
-- IRScheduler · [Github](https://github.com/404Setup/irs)
-- TI18n · [Github](https://github.com/404Setup/t-i18n) | [Central](https://central.sonatype.com/artifact/one.tranic/t-i18n)
-- T2hread · [Github](https://github.com/404Setup/t-thread) | [Central](https://central.sonatype.com/artifact/one.tranic/t-thread)
-- TNetwork · [Github](https://github.com/404Setup/t-network) | [Central](https://central.sonatype.com/artifact/one.tranic/t-network)
-- TProxy · [Github](https://github.com/404Setup/t-proxy) | [Central](https://central.sonatype.com/artifact/one.tranic/t-proxy)
-- TUtils · [Github](https://github.com/404Setup/t-utils) | [Central](https://central.sonatype.com/artifact/one.tranic/t-utils)
-- TFramework (WIP) · [Github](https://github.com/404Setup/t-base) | [Central](https://central.sonatype.com/artifact/one.tranic/t-base)
+- IRScheduler · <a href="https://github.com/404Setup/irs"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a> | <a href="https://central.sonatype.com/artifact/one.tranic/irs"><img alt="maven-central" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/maven-central_vector.svg"/></a>
+- TI18n · <a href="https://github.com/404Setup/t-i18n"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a> | <a href="https://central.sonatype.com/artifact/one.tranic/t-i18n"><img alt="maven-central" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/maven-central_vector.svg"/></a>
+- T2hread · <a href="https://github.com/404Setup/t-thread"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a> | <a href="https://central.sonatype.com/artifact/one.tranic/t-thread"><img alt="maven-central" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/maven-central_vector.svg"/></a>
+- TNetwork · <a href="https://github.com/404Setup/t-network"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a> | <a href="https://central.sonatype.com/artifact/one.tranic/t-network"><img alt="maven-central" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/maven-central_vector.svg"/></a>
+- TProxy · <a href="https://github.com/404Setup/t-proxy"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a> | <a href="https://central.sonatype.com/artifact/one.tranic/t-proxy"><img alt="maven-central" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/maven-central_vector.svg"/></a>
+- TinyUtils · <a href="https://github.com/404Setup/tiny-utils"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a> | <a href="https://central.sonatype.com/artifact/one.pkg/tiny-utils"><img alt="maven-central" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/maven-central_vector.svg"/></a>
+- TFramework (WIP) · <a href="https://github.com/404Setup/t-base"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a> | <a href="https://central.sonatype.com/artifact/one.tranic/t-base"><img alt="maven-central" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/maven-central_vector.svg"/></a>
 
 ### Software
-- Mars API · [Github](https://github.com/404Setup/Mars)
+- Mars API · <a href="https://github.com/404Setup/Mars"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"></img></a>
 
 ## License
 

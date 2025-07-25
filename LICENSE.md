@@ -1,6 +1,6 @@
-# 404Setup Works Redistribution License
+# 404Setup Public License
 
-Version 1.1, June 2025
+Version 1.2, July 2025
 
 Copyright © 404Setup
 
@@ -25,14 +25,14 @@ This License supplements and, where conflicts arise, supersedes the terms of any
 ### 4. Permitted Uses
 
 You may:
-- Use the Work for personal or commercial purposes
+- Use the work for personal or limited commercial purposes
 - Include the Work in Modpacks subject to Section 6
 - Study the source code of open-source Works
 
 ### 5. Restrictions
 
 You may not:
-- Redistribute binaries outside of Modpack format without permission
+- Distributing binaries without permission
 - Remove or alter copyright notices or attribution
 - Reverse engineer closed-source Works
 - Claim authorship of the Work

@@ -37,15 +37,15 @@ No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoF
 - LetsExpand · [Modrinth](https://modrinth.com/plugin/lets-expand) | [bStats](https://bstats.org/plugin/bukkit/LetsExpand/25230)
 
 ### Minecraft Server
-- [VelocityNT (Dead)](https://github.com/404Setup/VelocityNT)
-- [VelocityNT Recast](https://github.com/404Setup/VelocityNT-Recast)
+- VelocityNT (Dead) · <a href="https://github.com/404Setup/VelocityNT"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a>
+- VelocityNT Recast · <a href="https://github.com/404Setup/VelocityNT-Recast"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a>
 
 ### Minecraft Mod
 #### Mod created by me
-- BreedHorse · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/breed-horse) | [Github (Private)](https://github.com/404Setup/BreedHorse-Mods)
-- Don't freeze · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
-- KryptonFNP Patcher · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kryptonfnp-patcher) | [Github](https://github.com/404Setup/FNP-Patcher)
-- ProfileCached · [CurseForge](https://www.curseforge.com/minecraft/mc-mods/profile-cached) | [Github](https://github.com/404Setup/ProfileCached)
+- BreedHorse · <a href="https://www.curseforge.com/minecraft/mc-mods/breed-horse"><img alt="curseforge" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg"/></a> | <a href="https://github.com/404Setup/BreedHorse-Mods"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a>
+- Don't freeze · <a href="https://www.curseforge.com/minecraft/mc-mods/dont-freeze"><img alt="curseforge" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg"/></a> | <a href="https://github.com/404Setup/DontFreeze"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a>
+- KryptonFNP Patcher · <a href="https://www.curseforge.com/minecraft/mc-mods/kryptonfnp-patcher"><img alt="curseforge" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg"/></a> | <a href="https://github.com/404Setup/FNP-Patcher"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a>
+- ProfileCached · <a href="https://www.curseforge.com/minecraft/mc-mods/profile-cached"><img alt="curseforge" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg"/></a> | <a href="https://github.com/404Setup/ProfileCached"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a>
 - VanillaRPKeeper · <a href="https://www.curseforge.com/minecraft/mc-mods/vanilla-rp-keeper"><img alt="curseforge" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg"/></a> | <a href="https://github.com/404Setup/VanillaRPKeeper"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a>
 - YggdrasilProxy · <a href="https://www.curseforge.com/minecraft/mc-mods/yggdrasil-proxy"><img alt="curseforge" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/curseforge_vector.svg"/></a> | <a href="https://github.com/404Setup/YggdrasilProxy"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"></img></a>
 

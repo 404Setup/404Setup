@@ -28,13 +28,13 @@ No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoF
 ## My Project
 
 ### Minecraft Plugin
-- BreedHorse · [Github](https://github.com/404Setup/BreedHorse) | [Modrinth](https://modrinth.com/plugin/breedhorse) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/breedhorse) | [Spigot](https://www.spigotmc.org/resources/breedhorse.118704/) | [Hangar](https://hangar.papermc.io/Goal/BreedHorse) | [bStats](https://bstats.org/plugin/bukkit/BreedHorse/24077)
-- GoldPiglin · [Github](https://github.com/404Setup/GoldPiglin) | [Modrinth](https://modrinth.com/plugin/goldpiglin) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/goldpiglin) | [Spigot](https://www.spigotmc.org/resources/goldpiglin.120819/) | [bStats](https://bstats.org/plugin/bukkit/GoldPiglin/23906)
-- Don't freeze · [Modrinth](https://modrinth.com/mod/dont-freeze) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
+- BreedHorse · [Github](https://github.com/404Setup/BreedHorse) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/breedhorse) | [bStats](https://bstats.org/plugin/bukkit/BreedHorse/24077)
+- GoldPiglin · [Github](https://github.com/404Setup/GoldPiglin) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/goldpiglin) | [bStats](https://bstats.org/plugin/bukkit/GoldPiglin/23906)
+- Don't freeze · [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
 - OxygenCylinder · [Github](https://github.com/404Setup/OxygenCylinder) | [bStats](https://bstats.org/plugin/bukkit/OxygenCylinder/24165)
 - DEH · [Github](https://github.com/404Setup/deh) | [bStats](https://bstats.org/plugin/bukkit/deh/24983)
-- UltraSpeedLimit · [Modrinth](https://github.com/LevelTranic/UltraSpeedLimit) | [bStats](https://bstats.org/plugin/velocity/UltraSpeedLimit/23413)
-- LetsExpand · [Modrinth](https://modrinth.com/plugin/lets-expand) | [bStats](https://bstats.org/plugin/bukkit/LetsExpand/25230)
+- UltraSpeedLimit · [Curseforge](https://www.curseforge.com/minecraft/bukkit-plugins/ultraspeedlimit) | [bStats](https://bstats.org/plugin/velocity/UltraSpeedLimit/23413)
+- LetsExpand · [Curseforge](https://www.curseforge.com/minecraft/bukkit-plugins/lets-expand) | [bStats](https://bstats.org/plugin/bukkit/LetsExpand/25230)
 
 ### Minecraft Server
 - VelocityNT (Dead) · <a href="https://github.com/404Setup/VelocityNT"><img alt="github" height="30" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg"/></a>

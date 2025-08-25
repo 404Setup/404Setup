@@ -27,6 +27,9 @@ No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoF
 
 ## My Project
 
+### Jetbrains IDEA Plugin
+- ModPublish · [Github](https://github.com/404Setup/ModPublish)
+
 ### Minecraft Plugin
 - BreedHorse · [Github](https://github.com/404Setup/BreedHorse) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/breedhorse) | [bStats](https://bstats.org/plugin/bukkit/BreedHorse/24077)
 - GoldPiglin · [Github](https://github.com/404Setup/GoldPiglin) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/goldpiglin) | [bStats](https://bstats.org/plugin/bukkit/GoldPiglin/23906)

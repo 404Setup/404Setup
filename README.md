@@ -6,7 +6,7 @@ I have only been studying Java for a few years and have never read professional 
 
 This is not my main job, I am busy with other things in reality, so there will not be any paid projects released, and I don't want it to delay me too much.
 
-Golang, Java, and a little bit of Rust, that's all I have.
+Golang, Java, Kotlin, and a little bit of Rust, that's all I have.
 
 ---
 

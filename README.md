@@ -8,20 +8,7 @@ This is not my main job, I am busy with other things in reality, so there will n
 
 Golang, Java, Kotlin, and a little bit of Rust, that's all I have.
 
----
-
-## About Issues and Support
-
-I turned off the automatic watch, so I can't receive notifications from Github when you create an issue or pull request for my repo. 
-
-So, I decided to disable the Issues feature for most repos. In repos without Issues feature, you should join my Discord server to report issues to me, and I will check those notifications every day.
-
 <a href="https://discord.gg/PxgFqNmR2h"><img alt="discord-plural" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></img></a>
-
-**About the compatibility of my works:**
-My minimum development version is 1.20.1, which is Java 17. Minecraft below this version will not receive any support, and I will not actively develop any works for it.
-
-No compatibility will be provided for servers or mods that mix Forge/Fabric/NeoForge with Bukkit.
 
 ---
 

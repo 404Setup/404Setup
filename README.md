@@ -19,8 +19,8 @@ Golang, Java, Kotlin, and a little bit of Rust, that's all I have.
 
 ### Minecraft Plugin
 - BreedHorse · [Github](https://github.com/404Setup/BreedHorse) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/breedhorse) | [bStats](https://bstats.org/plugin/bukkit/BreedHorse/24077)
-- GoldPiglin · [Github](https://github.com/404Setup/GoldPiglin) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/goldpiglin) | [bStats](https://bstats.org/plugin/bukkit/GoldPiglin/23906)
 - Don't freeze · [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/dont-freeze) | [Github](https://github.com/404Setup/DontFreeze)
+- GoldPiglin · [Github](https://github.com/404Setup/GoldPiglin) | [CurseForge](https://www.curseforge.com/minecraft/bukkit-plugins/goldpiglin) | [bStats](https://bstats.org/plugin/bukkit/GoldPiglin/23906)
 - OxygenCylinder · [Github](https://github.com/404Setup/OxygenCylinder) | [bStats](https://bstats.org/plugin/bukkit/OxygenCylinder/24165)
 - DEH · [Github](https://github.com/404Setup/deh) | [bStats](https://bstats.org/plugin/bukkit/deh/24983)
 - UltraSpeedLimit · [Curseforge](https://www.curseforge.com/minecraft/bukkit-plugins/ultraspeedlimit) | [bStats](https://bstats.org/plugin/velocity/UltraSpeedLimit/23413)
